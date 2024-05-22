@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#DD000000</color>
+    <color name="white">#D8D4D4</color>
+    <color name="colorPrimary">#2C0A32</color>
+    <color name="textview_brends">#9CC0BEBE</color>
+    <color name="textview_colorborder_brends">#95595656</color>
+    <color name="linearlayout_background">#8F8C8A8A</color>
+    <color name="progressbar">#0A1342</color>
+    <color name="product_item">#C6ACAAAA</color>
+    <color name="image_corrnerradius">#EE7E7C7C</color>
+    <color name="background_linearlayout_productdetail">#B08C8A8A</color>
+    <color name="link">#CBB30D0D</color>
+</resources>

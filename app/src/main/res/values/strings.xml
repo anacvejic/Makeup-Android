@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Makeup</string>
+    <string name="tv_brand">Brand</string>
+    <string name="brand_category"></string>
+    <string name="tv_name">Name</string>
+    <string name="tv_brand_category"><![CDATA[Brand & Category]]></string>
+    <string name="tv_price">Price</string>
+    <string name="tv_description">Description</string>
+    <string name="tv_link">Visit website</string>
+</resources>
